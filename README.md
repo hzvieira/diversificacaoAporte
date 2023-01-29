@@ -1,6 +1,7 @@
 # Diversificação de Aporte
 Planilha de apoio para diversificação dos investimentos a cada novo aporte
-<a href="https://docs.google.com/spreadsheets/d/1Q_EplNQRLoYOEj9g66JhTBFsFqD-nrCwEqTYCrDhu_4/edit#gid=577357672">Visualizar</a>
+
+<a href="https://docs.google.com/spreadsheets/d/1Q_EplNQRLoYOEj9g66JhTBFsFqD-nrCwEqTYCrDhu_4/edit#gid=491972253">Visualizar</a>
 
 Na aba Geral, é onde será feita a divisão da pizza e onde será colocado o valor do aporte
 
