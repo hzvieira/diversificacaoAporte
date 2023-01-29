@@ -1,7 +1,7 @@
 # Diversificação de Aporte
 Planilha de apoio para diversificação dos investimentos a cada novo aporte
 
-![geral](https://user-images.githubusercontent.com/4234459/215299049-b24ff7a7-b009-4e44-9c58-56816bc66099.PNG)
+![geral2](https://user-images.githubusercontent.com/4234459/215299090-7dad9d40-5a2c-4776-86eb-fe6cc758285a.PNG)
 
 A planilha você encontra <a href="https://docs.google.com/spreadsheets/d/1Q_EplNQRLoYOEj9g66JhTBFsFqD-nrCwEqTYCrDhu_4/edit#gid=577357672">aqui</a>
 
