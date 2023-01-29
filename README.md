@@ -6,7 +6,8 @@ Planilha de apoio para diversificação dos investimentos a cada novo aporte
 A planilha você encontra <a href="https://docs.google.com/spreadsheets/d/1Q_EplNQRLoYOEj9g66JhTBFsFqD-nrCwEqTYCrDhu_4/edit#gid=577357672">aqui</a>
 
 Na aba 'Transações' é onde você vai colocar suas compras e vendas, no modelo StatusInvest
-* Quando for Tesouro IPCA, colocar o '+' para a fórmula reconhecer
+a. Quando for Tesouro IPCA, colocar o '+' para a fórmula reconhecer
+
 ![ipca](https://user-images.githubusercontent.com/4234459/215299120-d20807b6-1e4e-43a2-a96d-2bd6c54ddbb6.PNG)
 
 Na aba Geral, é onde será feita a divisão da pizza e onde será colocado o valor do aporte
